@@ -6,7 +6,7 @@ This is a progressive web application meaning you can download and install this 
 
 The deployed application can be found at https://aqueous-cove-02346.herokuapp.com/
 
-<img src="https://github.com/bcshanken/fitnesstracker/blob/main/assets/imgs/fitness.PNG?raw=true" 
+<img src="https://github.com/bcshanken/BudgetApp/blob/main/imgs/Capture.PNG?raw=true" 
 alt="database image" />
 
 ## Instillation
@@ -19,7 +19,7 @@ To use the application you can go to the deployed version provided above or depl
 
 The below video will give you a sample of what to expect. 
 
-<a href="https://www.youtube.com/watch?v=oBN_pUSqyzs&feature=youtu.be" target="_blank"><img src="https://github.com/bcshanken/fitnesstracker/blob/main/assets/imgs/video.PNG?raw=true" 
+<a href="https://www.youtube.com/watch?v=i-y-24QRIlc&feature=youtu.be" target="_blank"><img src="https://github.com/bcshanken/fitnesstracker/blob/main/assets/imgs/video.PNG?raw=true" 
 alt="video image" /></a>
 
 
